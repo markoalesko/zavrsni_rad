@@ -1,0 +1,36 @@
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.pdb
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.AssemblyReference.cache
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.MainForm.resources
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.Properties.Resources.resources
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.GenerateResource.cache
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.exe
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.pdb
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.ObservableForm.resources
+C:\Users\Marko Aleskovic\Desktop\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.ObserverForm.resources
+D:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+D:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.exe
+D:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.pdb
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csproj.AssemblyReference.cache
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.MainForm.resources
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.ObservableForm.resources
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.ObserverForm.resources
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.Properties.Resources.resources
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csproj.GenerateResource.cache
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.exe
+D:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.pdb
+F:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+F:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.exe
+F:\School\4.raz\Zavrsni\ObserverDesign\bin\Debug\ObserverDesign.pdb
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csprojAssemblyReference.cache
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.MainForm.resources
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.ObservableForm.resources
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.ObserverForm.resources
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.Properties.Resources.resources
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csproj.GenerateResource.cache
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.exe
+F:\School\4.raz\Zavrsni\ObserverDesign\obj\Debug\ObserverDesign.pdb
